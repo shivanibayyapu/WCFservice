@@ -1,0 +1,4 @@
+c:\users\shivani.bayyapu\source\repos\entityframework\entityframework\obj\Debug\netcoreapp2.0\entityframework.csprojAssemblyReference.cache
+c:\users\shivani.bayyapu\source\repos\entityframework\entityframework\obj\Debug\netcoreapp2.0\entityframework.csproj.CoreCompileInputs.cache
+c:\users\shivani.bayyapu\source\repos\entityframework\entityframework\obj\Debug\netcoreapp2.0\entityframework.AssemblyInfoInputs.cache
+c:\users\shivani.bayyapu\source\repos\entityframework\entityframework\obj\Debug\netcoreapp2.0\entityframework.AssemblyInfo.cs

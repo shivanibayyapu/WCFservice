@@ -1,0 +1,7 @@
+C:\Users\Shivani.Bayyapu\source\repos\fibanociseries\fibanociseries\bin\Debug\fibanociseries.exe.config
+C:\Users\Shivani.Bayyapu\source\repos\fibanociseries\fibanociseries\bin\Debug\fibanociseries.exe
+C:\Users\Shivani.Bayyapu\source\repos\fibanociseries\fibanociseries\bin\Debug\fibanociseries.pdb
+C:\Users\Shivani.Bayyapu\source\repos\fibanociseries\fibanociseries\obj\Debug\fibanociseries.csproj.CoreCompileInputs.cache
+C:\Users\Shivani.Bayyapu\source\repos\fibanociseries\fibanociseries\obj\Debug\fibanociseries.exe
+C:\Users\Shivani.Bayyapu\source\repos\fibanociseries\fibanociseries\obj\Debug\fibanociseries.pdb
+C:\Users\Shivani.Bayyapu\source\repos\fibanociseries\fibanociseries\obj\Debug\fibanociseries.csprojAssemblyReference.cache

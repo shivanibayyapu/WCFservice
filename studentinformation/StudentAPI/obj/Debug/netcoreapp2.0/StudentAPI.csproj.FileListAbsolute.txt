@@ -1,0 +1,11 @@
+C:\Users\Shivani.Bayyapu\source\repos\studentinformation\StudentAPI\bin\Debug\netcoreapp2.0\StudentAPI.deps.json
+C:\Users\Shivani.Bayyapu\source\repos\studentinformation\StudentAPI\bin\Debug\netcoreapp2.0\StudentAPI.runtimeconfig.json
+C:\Users\Shivani.Bayyapu\source\repos\studentinformation\StudentAPI\bin\Debug\netcoreapp2.0\StudentAPI.runtimeconfig.dev.json
+C:\Users\Shivani.Bayyapu\source\repos\studentinformation\StudentAPI\bin\Debug\netcoreapp2.0\StudentAPI.dll
+C:\Users\Shivani.Bayyapu\source\repos\studentinformation\StudentAPI\bin\Debug\netcoreapp2.0\StudentAPI.pdb
+C:\Users\Shivani.Bayyapu\source\repos\studentinformation\StudentAPI\obj\Debug\netcoreapp2.0\StudentAPI.csprojAssemblyReference.cache
+C:\Users\Shivani.Bayyapu\source\repos\studentinformation\StudentAPI\obj\Debug\netcoreapp2.0\StudentAPI.csproj.CoreCompileInputs.cache
+C:\Users\Shivani.Bayyapu\source\repos\studentinformation\StudentAPI\obj\Debug\netcoreapp2.0\StudentAPI.AssemblyInfoInputs.cache
+C:\Users\Shivani.Bayyapu\source\repos\studentinformation\StudentAPI\obj\Debug\netcoreapp2.0\StudentAPI.AssemblyInfo.cs
+C:\Users\Shivani.Bayyapu\source\repos\studentinformation\StudentAPI\obj\Debug\netcoreapp2.0\StudentAPI.dll
+C:\Users\Shivani.Bayyapu\source\repos\studentinformation\StudentAPI\obj\Debug\netcoreapp2.0\StudentAPI.pdb
